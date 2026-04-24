@@ -193,5 +193,5 @@ if run_button:
                 st.markdown(str(result))
 
             except Exception as e:
-                st.error(f"Something went wrong: {e}"
+                st.error(f"Something went wrong: {e}")
         
